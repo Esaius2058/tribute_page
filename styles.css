@@ -1,0 +1,71 @@
+img{
+    object-fit: cover;
+    width: 80%;
+    height: auto;
+    max-width: 100%;
+    
+    display: block;
+    border-radius: 7px;
+    margin: 0 auto;
+  }
+  
+  .header,h2{
+    text-align: center;
+    border-bottom: 4px solid #dfdfe2;
+  }
+  
+  body{
+    background-color: #eee;
+    font: Georgia, serif;
+    font-size: large;
+  }
+  
+  figure{
+    padding-top: 5px;
+    padding-right: auto;
+    width: 100%;
+    max-width: 700px;
+    margin: 0 30% 10px 30%;
+    text-align: center;
+  }
+  
+  figcaption{
+    margin: 0 auto;
+    padding-left: 2px;
+    padding-top: 2px;
+    width: 80%;
+    font-family: serif;
+  }
+  
+  #quote{
+    background-color: #A9A299;
+    margin: 3px auto 3px auto;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+  
+  #right{
+    float: right;
+    padding-top: 3px;
+  }
+  main{
+    background-color: #eee;
+    font-family: Georgia, serif;
+  }
+  
+  section {
+    width: 80%;
+    margin: 0 auto 10px auto;
+    max-width: 600px;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: #A9A299;
+  }
